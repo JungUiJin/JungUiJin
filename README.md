@@ -1,15 +1,18 @@
 # ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=UiJin's%20GitHub&fontSize=70&animation=twinkling)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JungUiJin&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="Uijin's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungUiJin&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JungUiJin&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungUiJin&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://solved.ac/poochin74">
-    <img src="http://mazandi.herokuapp.com/api/v2/generate_badge?boj=poochin74" alt="Solved.ac Profile">
+    <img src="https://mazandi.herokuapp.com/api/v2/generate_badge?boj=poochin74" />
   </a>
 </div>
+
 
 ---
 
@@ -33,11 +36,13 @@
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
 </p>
 
-#### 🗄️ Database & Search
+#### 🗄️ Database & Search (ELK Stack)
 <p>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
 </p>
 
 #### ☁️ Cloud & DevOps
@@ -61,6 +66,5 @@
 
 ### 📬 Contact Me
 <p>
-  <a href="mailto:당신의이메일@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://당신의블로그주소"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
