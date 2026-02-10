@@ -1,18 +1,14 @@
 # ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=UiJin's%20GitHub&fontSize=70&animation=twinkling)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JungUiJin&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungUiJin&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
-</div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungUiJin_count=4&layout=compact)](https://github.com/JungUiJin/github-readme-stats)
-<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JungUiJin&show_icons=true&theme=dark&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
+  
+  <br/>
 
-<div align="center">
   <a href="https://solved.ac/poochin74">
-    <img src="https://mazandi.herokuapp.com/api/v2/generate_badge?boj=poochin74" />
+    <img src="https://mazandi.herokuapp.com/api/v2/generate_badge?boj=poochin74" alt="Solved.ac Profile">
   </a>
 </div>
-
 
 ---
 
