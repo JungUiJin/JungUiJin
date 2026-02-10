@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JungUiJin&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungUiJin&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungUiJin_count=4&layout=compact)](https://github.com/JungUiJin/github-readme-stats)
 <br/>
 
 <div align="center">
