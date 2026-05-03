@@ -1,14 +1,5 @@
 # ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=UiJin's%20GitHub&fontSize=70&animation=twinkling)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JungUiJin&show_icons=true&theme=dark&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
-  
-  <br/>
-
-  <a href="https://solved.ac/poochin74">
-    <img src="https://mazandi.herokuapp.com/api/v2/generate_badge?boj=poochin74" alt="Solved.ac Profile">
-  </a>
-</div>
 
 ---
 
